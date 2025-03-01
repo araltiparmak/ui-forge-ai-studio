@@ -2941,10 +2941,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^4.0.0":
-  version: 4.0.3
-  resolution: "tailwindcss@npm:4.0.3"
-  checksum: 10c0/afab90685af6cecbdce61fec5e3a9ddd10696fd2e60e7ad7d5e2eceb5eaaa458a752f1ceb4176843377e8ded44ff5da52f42258a3e74b538920214986cfa9811
+"tailwindcss@npm:^4.0.9":
+  version: 4.0.9
+  resolution: "tailwindcss@npm:4.0.9"
+  checksum: 10c0/92e5f0ff9d98b4b7c79419e21b02d703aafa86f1d9b92b039cc0ac3e2963e763c5c9bcfc2afdf9f46fc709812c1aab12565b02bebe70dcaaccb2773884cc0654
   languageName: node
   linkType: hard
 
@@ -3047,7 +3047,7 @@ __metadata:
     prettier: "npm:^3.4.2"
     react: "npm:^18.3.1"
     react-dom: "npm:^18.3.1"
-    tailwindcss: "npm:^4.0.0"
+    tailwindcss: "npm:^4.0.9"
     typescript: "npm:~5.6.2"
     typescript-eslint: "npm:^8.18.2"
     vite: "npm:^6.0.5"
